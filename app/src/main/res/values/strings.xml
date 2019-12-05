@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AtomPaymentGateway</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="paymentOption">
+        <item>Select Payment Option</item>
+        <item>All</item>
+        <item>Net Banking</item>
+        <item>IMPS</item>
+        <!--  <item>Wallet</item>  -->
+    </string-array>
+
+    <string-array name="bank">
+        <item>Select Bank</item>
+        <item>Atom Bank</item>
+    </string-array>
+
+    <string-array name="paymentMode">
+        <item>Select Payment Mode</item>
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+    </string-array>
+    <string-array name="cardAssociate">
+        <item>Select Card Type</item>
+        <item>VISA</item>
+        <item>Maestro</item>
+        <item>Master</item>
+    </string-array>
+</resources>
