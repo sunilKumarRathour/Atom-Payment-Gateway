@@ -24,4 +24,15 @@ After include jar file and dependency your project build gradle file showing.
     
     
    
+  # If you are getting this issue android 9 above version
+  
+  java.lang.classnotfoundexception: didn't find class "org.apache.http.util.encodingutils"
+  
+ # add library in your manifest file
+ 
+   <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+
+    
+    
+   
 
