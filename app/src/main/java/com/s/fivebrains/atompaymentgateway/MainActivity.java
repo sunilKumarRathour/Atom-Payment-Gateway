@@ -163,7 +163,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     {
         super.onResume();
         System.out.println("In On Resume");
-        setContentView(R.layout.mainpage);
+        setContentView(R.layout.mainpage1);
 
         try {
             mprod = createXmlForProducts();
