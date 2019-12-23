@@ -35,6 +35,22 @@ After include jar file and dependency your project build gradle file showing.
 
 ```
 
+
+
+# Move to production
+
+Replace UAT jar file to Production jar.
+
+Necessary parameters provided to atom
+1. Merchant Id
+2. Login Id
+3. Password
+4. Product Id
+5. Signature Request
+6. Signature Response
+
+
+
     
     
    
